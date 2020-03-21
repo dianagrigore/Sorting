@@ -1,0 +1,96 @@
+Testul 1:
+valoare maxima este 1000000 nr. maxim de elemente este 3000
+Countsort: Nu se poate sorta  0.0 secunde 
+Bubble Sort:  e sortat 2.985 secunde 
+Radixsort in baza 256:  e sortat 0.005 secunde 
+Radixsort in baza 2:  e sortat 0.033 secunde 
+Mergesort:  e sortat 0.022 secunde 
+Quicksort cu mediana din 3:  e sortat 0.016 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.08 secunde 
+Sortare implicita Python:  e sortat 0.002 secunde 
+
+
+Testul 2:
+valoare maxima este 10000 nr. maxim de elemente este 6000
+Countsort  e sortat  0.231 secunde 
+Bubble Sort: Nu se poate sorta 0.0 secunde 
+Radixsort in baza 256:  e sortat 0.003 secunde 
+Radixsort in baza 2:  e sortat 0.031 secunde 
+Mergesort:  e sortat 0.04 secunde 
+Quicksort cu mediana din 3:  e sortat 0.015 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.024 secunde 
+Sortare implicita Python:  e sortat 0.0 secunde 
+
+
+Testul 3:
+valoare maxima este 100000 nr. maxim de elemente este 10000
+Countsort  e sortat  0.222 secunde 
+Bubble Sort: Nu se poate sorta 0.0 secunde 
+Radixsort in baza 256:  e sortat 0.011 secunde 
+Radixsort in baza 2:  e sortat 0.047 secunde 
+Mergesort:  e sortat 0.067 secunde 
+Quicksort cu mediana din 3:  e sortat 0.03 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.09 secunde 
+Sortare implicita Python:  e sortat 0.004 secunde 
+
+
+Testul 4:
+valoare maxima este 1000000 nr. maxim de elemente este 100000
+Countsort: Nu se poate sorta  0.0 secunde 
+Bubble Sort: Nu se poate sorta 0.0 secunde 
+Radixsort in baza 256:  e sortat 0.128 secunde 
+Radixsort in baza 2:  e sortat 0.836 secunde 
+Mergesort:  e sortat 1.144 secunde 
+Quicksort cu mediana din 3:  e sortat 0.508 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.692 secunde 
+Sortare implicita Python:  e sortat 0.016 secunde 
+
+
+Testul 5:
+valoare maxima este 1000000000 nr. maxim de elemente este 1000
+Countsort: Nu se poate sorta  0.0 secunde 
+Bubble Sort:  e sortat 0.248 secunde 
+Radixsort in baza 256:  e sortat 0.004 secunde 
+Radixsort in baza 2:  e sortat 0.008 secunde 
+Mergesort:  e sortat 0.0 secunde 
+Quicksort cu mediana din 3:  e sortat 0.004 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.013 secunde 
+Sortare implicita Python:  e sortat 0.0 secunde 
+
+
+Testul 6:
+valoare maxima este 1000000 nr. maxim de elemente este 1000000
+Countsort: Nu se poate sorta  0.0 secunde 
+Bubble Sort: Nu se poate sorta 0.0 secunde 
+Radixsort in baza 256:  e sortat 1.963 secunde 
+Radixsort in baza 2:  e sortat 12.701 secunde 
+Mergesort:  e sortat 18.842 secunde 
+Quicksort cu mediana din 3:  e sortat 6.898 secunde 
+Quicksort cu mediana medianelor:  e sortat 14.922 secunde 
+Sortare implicita Python:  e sortat 0.704 secunde 
+
+
+Testul 7:
+valoare maxima este 6000000 nr. maxim de elemente este 300000
+Countsort: Nu se poate sorta  0.0 secunde 
+Bubble Sort: Nu se poate sorta 0.0 secunde 
+Radixsort in baza 256:  e sortat 0.818 secunde 
+Radixsort in baza 2:  e sortat 5.299 secunde 
+Mergesort:  e sortat 5.92 secunde 
+Quicksort cu mediana din 3:  e sortat 2.361 secunde 
+Quicksort cu mediana medianelor:  e sortat 4.681 secunde 
+Sortare implicita Python:  e sortat 0.212 secunde 
+
+
+Testul 8:
+valoare maxima este 200 nr. maxim de elemente este 100
+Countsort  e sortat  0.326 secunde 
+Bubble Sort:  e sortat 0.003 secunde 
+Radixsort in baza 256:  e sortat 0.0 secunde 
+Radixsort in baza 2:  e sortat 0.001 secunde 
+Mergesort:  e sortat 0.0 secunde 
+Quicksort cu mediana din 3:  e sortat 0.001 secunde 
+Quicksort cu mediana medianelor:  e sortat 0.0 secunde 
+Sortare implicita Python:  e sortat 0.0 secunde 
+
+
