@@ -1,6 +1,5 @@
 import time
 import random
-import itertools
 
 f = open("fisier.in")
 g = open("fisier.out", 'w')
@@ -82,7 +81,11 @@ def radixsort_offset(x, y, z):
     for num in x:
         bit_offset = (num & bit) >> y * z
         buckets[bit_offset].append(num)
-    return list(itertools.chain.from_iterable(buckets))
+    lista=[]
+    for x in buckets:
+        for y in x:
+            lista.append(y)
+    return lista
 
 
 def countsort(v):  # CountSort
